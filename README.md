@@ -12,14 +12,7 @@
 
 ## ✨ Features
 
-- 🎯 **Quick Bookmark Access** - Organize and access your favorite websites instantly
-- 🔍 **Smart Search** - Search through bookmarks or use multiple search engines
-- ⌨️ **Keyboard Navigation** - Full keyboard support for power users
-- 🎨 **Beautiful UI** - Modern design with Nord color theme
-- 📱 **Responsive Design** - Works perfectly on desktop, tablet, and mobile
-- 🔧 **Easy Configuration** - Simple YAML configuration for bookmarks
-- 🚀 **Fast & Lightweight** - Built with Vite and TypeScript for optimal performance
-- 🌈 **Customizable Categories** - Organize bookmarks with custom categories and colors</div>
+This bookmark application provides quick access to favorite websites with smart search capabilities across bookmarks and multiple search engines. It features full keyboard navigation for efficient use and a modern Nord-themed interface that works responsively on all devices. The application uses simple YAML configuration for easy bookmark management and offers customizable categories with color coding. Built with Vite and TypeScript, it delivers fast performance while maintaining a lightweight structure that ensures optimal user experience across desktop, tablet, and mobile platforms.
 
 ## 🚀 Quick Start
 
