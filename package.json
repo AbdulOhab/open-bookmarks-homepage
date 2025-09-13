@@ -1,9 +1,9 @@
 {
-  "name": "open-bookmarks",
-  "description": "A simple homepage project for managing and viewing bookmarks.",
+  "name": "open-bookmarks-homepage",
+  "description": "A sleek, modern homepage for managing and navigating your favorite bookmarks with keyboard shortcuts and search functionality",
   "main": "index.js",
-  "private": true,
-  "version": "0.0.0",
+  "private": false,
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -25,9 +25,23 @@
     "@types/js-yaml": "^4.0.9",
     "js-yaml": "^4.1.0"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "homepage",
+    "bookmarks",
+    "dashboard",
+    "typescript",
+    "vite",
+    "tailwindcss",
+    "browser-homepage",
+    "bookmark-manager",
+    "keyboard-navigation",
+    "search"
+  ],
+  "author": {
+    "name": "Abdul Wahab",
+    "url": "https://github.com/AbdulOhab"
+  },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AbdulOhab/open-bookmarks-homepage.git"
